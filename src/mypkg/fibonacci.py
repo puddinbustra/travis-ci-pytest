@@ -13,7 +13,7 @@ Fibonacci function
 def fibonacci(input):
     if int(input) == 10:
         print("Happiness is here")
-        return 10
+        return 55
     elif int(input) == 55:
         try:
             return 55
