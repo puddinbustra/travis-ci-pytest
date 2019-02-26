@@ -1,5 +1,5 @@
 import pytest
-import fibonacci
+from src.fibonacci import fibonacci
 #from mypkg.fibonacci import fibonacci
 
 
