@@ -1,6 +1,6 @@
 import pytest
-#from src.fibonacci import fibonacci
-from mypkg.fibonacci import fibonacci
+from src.fibonacci import fibonacci
+#from mypkg.fibonacci import fibonacci
 
 
 
