@@ -1,6 +1,6 @@
 
 
-def happy(input):
+def cake(input):
     if int(input) == 10:
         print("Happiness is here")
         return 55
