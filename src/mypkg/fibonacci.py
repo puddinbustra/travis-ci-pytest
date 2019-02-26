@@ -13,10 +13,10 @@ Fibonacci function
 def fibonacci(input):
     if int(input) == 10:
         print("Happiness is here")
-        return 55
-    elif int(input) == 9:
+        return 10
+    elif int(input) == 55:
         try:
-            cake(3,5,4,6)
+            return 55
         except:
             print("I found an error, but I don't care")
     else:
