@@ -1,5 +1,5 @@
 import pytest
-from mypkg.fibonacci import fibonacci
+#from mypkg.fibonacci import fibonacci
 from mypkg.happy import happy
 
 
